@@ -1,5 +1,6 @@
-## Hi there 👋
+# **Hola soy Kevin** 👾​
 
+## Estudiante de Ingeniería de sistemas e Informática de la Universidad Nacional de Colombia
 <!--
 **kerodriguezar/kerodriguezar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
