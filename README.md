@@ -6,14 +6,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kerodriguezar/kerodriguezar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kerodriguezar/kerodriguezar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kerodriguezar/kerodriguezar/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <p align="left">Apasionado por el desarrollo de soluciones de software echas a la medida, y al aprendizaje de nuevas herramientas principalmente las basadas en modelos de Machine Learning e Inteligencia Artificial; llegando a elaborar proyectos a escala local utilizando herramientas como OpenCV y Mediapipe para elaborar "hand_pointer" un puntero que maneja el cursor de un ordenador mediante movimientos específicos de la mano usando la cámara del dispositivo.</p>
 
 ###
