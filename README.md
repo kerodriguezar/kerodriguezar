@@ -12,26 +12,21 @@
 
 ###
 
-<p align="left">Estudiante apasionado por el desarrollo de software, y al aprendizaje de nuevas herramientas principalmente las basadas en modelos de Machine Learning e Inteligencia Artificial; llegando a elaborar proyectos a escala local utilizando herramientas como OpenCV y Mediapipe para elaborar "hand_pointer" un puntero que maneja el cursor de un ordenador mediante movimientos específicos de la mano usando la cámara del dispositivo.</p>
+<p align="left">Soy un estudiante apasionado por el desarrollo de software, y al aprendizaje de nuevas herramientas principalmente las basadas en modelos de Machine Learning e Inteligencia Artificial, además me adapto fácil a la idea de utilizar cuanta nueva herramienta surja a la par que busco la manera de utilizarla para mejorar eficiencia, lógica, o simplemente a contribuir a la comunidad; buscando construir una base más solida en  mi stack de herramientas y razonamiento.</p>
 
 ###
 
-## Habilidades:
+## Me gusta pensar en:
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <div align="left">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="40" alt="Git" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="40" alt="Python" />
+    <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="40" alt="OpenCV" />
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" height="40" alt="Java" />
+    <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="40" alt="C" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="40" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="40" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="40" alt="JavaScript" />
   </div>
 
 ###
@@ -39,7 +34,11 @@
 ## Contacto:
 
   [![Email](https://img.shields.io/badge/kerodriguezar@unal.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kerodriguezar@unal.edu.co)
-
+  </br>
+  [![X](https://img.shields.io/badge/X-@KevAr2504-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/KevAr2504)
+  </br>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin_Rodriguez_Aristizabal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kevin-rodriguez-aristizabal/)
+  
 ###
 
 <div>
