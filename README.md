@@ -23,7 +23,7 @@ Estudiante de **Ingeniería de Sistemas e Informática** en la **Universidad Nac
 ### Proyectos destacados
 
 - **[Hand_Pointer](https://github.com/kerodriguezar/hand_pointer)** — *Controla el cursor de tu ratón con la cámara* Controla el cursor de tu ratón con la cámara usando gestos de la mano.
-- **[Tic-Tac-Toe]([https://github.com/kerodriguezar/repo-2](https://github.com/kerodriguezar/Tic-Tac-Toe))** — *Proyecto realizado para la materia Programación Orientada a Objetos* Aplicación de consola para jugar tres en línea, tic tac toe, o también conocido como triqui.
+- **[Tic-Tac-Toe](https://github.com/kerodriguezar/Tic-Tac-Toe)** — *Proyecto realizado para la materia Programación Orientada a Objetos* Aplicación de consola para jugar tres en línea, tic tac toe, o también conocido como triqui.
 
 ---
 
